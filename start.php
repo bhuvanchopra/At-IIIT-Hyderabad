@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Ravens Advanced Matrices Test</title>
+</head>
+<body>
+<center>
+<br>
+<h1>Raven's Advanced Progressive Matrices Test</h1>
+</center>
+<br>
+<table width="300" border="0" align="center" cellpadding="0" cellspacing="1">
+<tr>
+<td><form name="form1" method="post" action="1.php">
+<table width="100%" border="0" cellspacing="1" cellpadding="3">
+<tr>
+<td colspan="3"><strong>Please fill your details here </strong></td>
+</tr>
+<tr>
+<td width="71">Full Name</td>
+<td width="6">:</td>
+<td width="301"><input name="name" type="text" id="name"></td>
+</tr>
+<tr>
+<td>Age</td>
+<td>:</td>
+<td><input name="age" type="text" id="age"></td>
+</tr>
+<tr>
+<td>Gender</td>
+<td>:</td>
+<td><input name="gender" type="text" id="gender"></td>
+</tr>
+<tr>
+<td>Date of birth</td>
+<td>:</td>
+<td><input name="dob" type="text" id="dob"></td>
+</tr>
+<tr>
+<td>Handedness</td>
+<td>:</td>
+<td><input name="hand" type="text" id="hand"></td>
+</tr>
+<tr>
+<td>Qualification</td>
+<td>:</td>
+<td><input name="qualification" type="text" id="qualification"></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><input type="submit" name="Submit" value="Submit"></td>
+</tr>
+</table>
+</form>
+</td>
+</tr>
+</table>
+</body>
+</html>
